@@ -47,6 +47,9 @@
 # 💻 Tech Stack
 
 <p align="center">
+  <img src="./assets/techstack.svg" width="700" alt="Animated Tech Stack">
+</p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css"/>
 
