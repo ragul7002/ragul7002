@@ -47,7 +47,7 @@
 # 💻 Tech Stack
 
 <p align="center">
-  <img src="./assets/techstack.svg" width="700" alt="Animated Tech Stack">
+  <img src="./assets/techstack.png" width="700" 
 </p>
 <p align="center">
 
