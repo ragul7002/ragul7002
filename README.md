@@ -1,7 +1,6 @@
 <p align="center">
-<img src="ChatGPT Image Jul 1, 2026, 11_35_03 AM.png" width="100%">
+  <img src="./banner.png" alt="Banner" width="100%">
 </p>
-<div align="center">
 
 # 👋 Hi, I'm Ragul
 
